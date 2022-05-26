@@ -1,0 +1,22 @@
+.top-img {
+    background-image: url("shutterstock_348320018.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-fluid {
+    height: 400px;
+}
+
+.c-header {
+    position: relative;
+    right: 10px;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    padding: 7px;
+    margin-right: 10px;
+    position: relative;
+    top: 15px;
+}
